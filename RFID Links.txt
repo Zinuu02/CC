@@ -1,0 +1,7 @@
+YOUTUBE LINKS
+
+
+
+https://iotprojectsideas.com/connect-rfid-to-php-mysql-database-with-nodemcu-esp8266/#google_vignette
+
+https://iotprojectsideas.com/rfid-based-attendance-system-using-nodemcu/
